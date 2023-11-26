@@ -1,8 +1,8 @@
 # Authenticate
-client_id       = "5f958331-de84-4f04-9780-4664d1bb2a4d"
-client_secret   = "3um8Q~-SOx4e3BpMGA8gF8JKt4SSz9u9Tyy-Bdvm"
-tenant_id       = "e58c4816-2a3b-45ff-ba8e-11ad7b5e5c5f"
-subscription_id = "a5b2fb36-2de8-4f3e-88ce-81d365b92474"
+client_id       = "5f958331-de84-XXXX-9780-XXXXXXXXXX"
+client_secret   = "3um8Q~-XXXXXXXXXXXXXXXXX-Bdvm"
+tenant_id       = "e58c4816-XXXX-45ff-XXXX-XXXXXXXX5c5f"
+subscription_id = "a5b2fb36-XXXX-4f3e-88ce-XXXXXXXX2474"
 
 # Resource group
 resource_group_name = "thanhnc85"
